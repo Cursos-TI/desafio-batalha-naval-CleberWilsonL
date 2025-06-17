@@ -34,7 +34,7 @@ Este projeto simula o clássico jogo Batalha Naval em linguagem C, com três ní
 
 ## ▶️ Execução
 1:
-gcc BatalhaNaval.c -o batalha
+gcc batalhaNaval.c -o batalha
 
 2:
 ./batalha
